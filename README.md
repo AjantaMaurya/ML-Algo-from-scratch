@@ -1,3 +1,11 @@
 # ML-Algo-from-scratch
 - Code1-----> Gradient Descent very basic (27-08-2023)
-- Code2-----> Linear regression (Next week most probably- 3-09-2023)
+- Code2-----> Linear regression from scratch (Next week most probably- 3-09-2023)
+- Code3-----> Logistic regression from scratch(10-09-2023)
+- Code4-----> Stochastic Gradient Descent from scratch(17-09-2023)
+- Code5-----> KNN Classification and Regression from scratch(24-09-2023)
+- Code6-----> K-means Clustering from scratch(01-10-2023)
+- Code7-----> Decision Tree Classification from scratch(08-10-2023)
+- Code8-----> Decision Tree Regression from scratch(15-10-2023)
+- Code9-----> Naive Bayes from scratch(22-10-2023)
+- Code10----> Random Forest from scratch(29-10-2023)
